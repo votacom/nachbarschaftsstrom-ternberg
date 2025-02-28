@@ -16,6 +16,8 @@ So fördern wir den Ausbau dezentraler Erneuerbaren Energien, stärken die nachb
 
 ![Kartenansicht von Ternberg mit Hervorhebung des Anschlussgebiets vom Trafo Ternberg Ort](/assets/gebiet.png)
 
+![Foto vom Ortstrafo Nr. 08967 "Ternberg Ort"](/assets/trafo.jpeg)
+
 # Den Preis bestimmst ... du!
 
 Als Verein gehen alle Entscheidungen von unseren Mitgliedern aus. So sind wir unabhängig von Einflüssen von Außen wie Unternehmen und der Marktlage. Unseren Strompreis bestimmen wir so, wie wir es für richtig halten, um unsere Erzeugungsanlagen kostendeckend betreiben und langfristig eine stabile und faire Versorgung sicherstellen zu können.
