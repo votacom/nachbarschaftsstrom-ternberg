@@ -36,6 +36,8 @@ Auch unseren Einspeiser\*innen ermöglichen wir durch die reduzierten Gebühren,
 
 [Informationsplattform Energiegemeinschaften](https://energiegemeinschaften.gv.at/erneuerbare-energie-gemeinschaften-eeg/) des Klima- und Energiefonds
 
+[Benefit Tool – EEG und GEA](https://www.energieinstitut.at/tools/benefit/)
+
 [Netz OÖ Preisblatt Netznutzungs- und Netzverlustentgelte](https://www.netzooe.at/Netznutzung-u-Netzverlustentgelte.pdf)
 
 [Netz OÖ Preisblatt Steuern und Abgaben](https://www.netzooe.at/Preisblatt-Steuern-und-Abgaben.pdf)
