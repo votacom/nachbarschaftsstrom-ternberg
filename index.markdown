@@ -12,7 +12,7 @@ Die Überschüsse, die wir in der Nachbarschaft erzeugen, teilen wir miteinander
 
 "Unser" Trafo Nr. 08967 "Ternberg Ort" versorgt ca. 80 Ein- und Mehrfamilienhäuser sowie eine Handvoll Betriebe im Ortsgebiet von Ternberg im Bereich ehem. KZ-Baracke - Hauptstraße bis Abzw. Familiengasse / ehem. Arztpraxis Schleyer - Pfarrhofstraße - Roseggerstraße - Fa. SIRO. Jede/r im Mitgliedsgebiet kann mitmachen und von der Nachbarschaftlichkeit profitieren.
 
-![Kartenansicht von Ternberg mit Hervorhebung des Anschlussgebiets vom Trafo Ternberg Ort](/assets/gebiet2.png)
+![Kartenansicht von Ternberg mit Hervorhebung des Anschlussgebiets vom Trafo Ternberg Ort](/assets/gebiet.png)
 
 # Den Preis bestimmst ... du!
 
