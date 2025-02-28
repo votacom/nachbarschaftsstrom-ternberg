@@ -5,10 +5,10 @@ title: Nachbarschaftsstrom Ternberg Ort
 
 # Aus der Nachbarschaft für die Nachbarschaft
 
-Der Strom, den eine Nachbarin mit ihrer PV-Anlage erzeugt und nicht selbst verbraucht, kann ein anderer Nachbar gut brauchen.
+Der Sonnenstrom, den eine Nachbarin mit ihrer Photovoltaik-Anlage erzeugt und nicht selbst verbraucht, kann ein anderer Nachbar gut brauchen.
 Die Überschüsse, die wir in der Nachbarschaft erzeugen, teilen wir miteinander. Durch unsere lokale Energiegemeinschaft nutzen wir unseren erzeugten erneurbaren Strom bestmöglich selbst, mit minimalen Übertragungsverlusten.
 
-So fördern wir den Ausbau dezentraler Erneuerbaren Energien, stärken die nachbarschaftliche Sozialstruktur und wirtschaften fürs Gemeinwohl statt für Profite.
+So fördern wir den Ausbau dezentraler erneuerbarer Energien, stärken die nachbarschaftliche Sozialstruktur und wirtschaften fürs Gemeinwohl statt für Profite.
 
 # Mitgliedsgebiet
 
