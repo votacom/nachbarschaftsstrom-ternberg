@@ -20,6 +20,10 @@ So fördern wir den Ausbau der Erneuerbaren Energien, stärken die nachbarschaft
 
 Als Verein gehen alle Entscheidungen von unseren Mitgliedern aus. So sind wir unabhängig von Einflüssen von Außen wie Unternehmen und der Marktlage. Unseren Strompreis bestimmen wir so, wie wir es für richtig halten, um unsere Erzeugungsanlagen kostendeckend betreiben und langfristig eine stabile und faire Versorgung sicherstellen zu können.
 
+# Deine Stromrechnung
+
+So könnte deine Stromrechnung aussehen: [Beispielrechnung](beispielrechnung)
+
 # Vereinsgründung
 
 Der Verein Nachbarschaftsstrom Ternberg Ort befindet sich zurzeit im Aufbau. Wenn auch du bei der Gründung mitwirken willst, [melde dich bei uns](kontakt)! Auch nach der Gründung können neue Mitglieder aufgenommen werden.
