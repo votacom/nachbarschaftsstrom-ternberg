@@ -21,7 +21,7 @@
 title: Nachbarschaftsstrom Ternberg Ort
 email: nachbarschaftsstrom@manuelbichler.at
 description: >- # this means to ignore newlines until "baseurl:"
-  Erneuerbare-Energie-Gemeinschaft Ternberg Ort -- Strom aus der Nachbarschaft für die Nachbarschaft
+  Erneuerbare-Energie-Gemeinschaft Ternberg Ort: Strom aus der Nachbarschaft für die Nachbarschaft
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
