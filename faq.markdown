@@ -8,10 +8,6 @@ Viele generelle Fragen zum Konzept der lokalen Erneuerbare-Energie-Gemeinschaft 
 
 # Fragen zur Mitgliedschaft
 
-## Kann ich auch mitmachen, wenn ich keine Photovoltaikanlage habe?
-
-Ja! Eine gut funktionierende Energiegemeinschaft benötigt einen ausgewogenen Mix aus Erzeugung und Verbrauch. Wir benötigen auch dich als rein verbrauchendes Mitglied, um unsere Stromüberschüsse bei Sonnenschein in Ternberg verwerten zu können.
-
 ## Ich wohne im Ort. Kann ich mitmachen?
 
 Mitmachen können alle, die an ["unseren" Trafo](/#mitgliedsgebiet) angeschlossen sind.
@@ -23,11 +19,21 @@ Das sind die folgenden Adressen:
 - Hauptstraße 33 bis 40
 - Marienplatz (gesamt)
 - Pfarrhofstraße 8 bis 12
-- Stelzhamerstraße 2 bis 15
 - Roseggerstraße 1 bis 8 und 10
 - Spielfeldstraße 1 bis 11
 - Sportplatzstraße 1
+- Stelzhamerstraße 2 bis 15
 - Wolfgang-Forster-Straße (gesamt)
+
+## Kann ich auch mitmachen, wenn ich keine Photovoltaikanlage habe?
+
+Ja! Eine gut funktionierende Energiegemeinschaft benötigt einen ausgewogenen Mix aus Erzeugung und Verbrauch. Wir benötigen auch dich als rein verbrauchendes Mitglied, um unsere Stromüberschüsse bei Sonnenschein in Ternberg verwerten zu können.
+
+## Ich wohne zur Miete. Muss ich meinen Vermieter fragen, wenn ich mitmachen will?
+
+Es gilt die gleiche Voraussetzung wie für den Wechsel des Stromanbieters: Mitmachen kann, wer für seinen Zählpunkt Vertragspartner des Netzbetreibers ist. Wenn die Stromrechnung auf dich lautet, kannst du auch einer Energiegemeinschaft beitreten.
+
+Bei den meisten Mietverhältnissen wird der Zählpunkt auf die Mieter\*innen angemeldet.
 
 ## Ich bin schon bei der regionalen Energiegemeinschaft Ennstal oder bei einer Bürgerenergiegemeinschaft. Kann ich beim Nachbarschaftsstrom Ternberg Ort mitmachen?
 
@@ -75,7 +81,7 @@ Kurze Antwort: Wahrscheinlich gar keine, sondern nur Einsparungen.
 
 Lange Antwort:
 
-Da der Verein von Ehrenamtlichen geführt wird, haben wir so gut wie keine Fixkosten. Wir können daher auf die Einhebung von fixen oder regelmäßigen Mitgliedsbeiträgen und Grundgebühren verzichten. So ermöglichen wir es insbesondere rein verbrauchenden Nachbar\*innen ohne eigene Erzeugungsanlagen eine niederschwellige und risikolose Teilnahme.
+Da der Verein von Ehrenamtlichen geführt wird, haben wir so gut wie keine Fixkosten. Wir können daher auf die Einhebung von fixen oder regelmäßigen Mitgliedsbeiträgen und Grundgebühren verzichten. So ermöglichen wir insbesondere rein verbrauchenden Nachbar\*innen ohne eigene Erzeugungsanlagen eine niederschwellige und risikolose Teilnahme.
 
 Als Verbraucher\*in zahlst du einen Preis pro Kilowattstunde (kWh), die du von der Nachbarschaft beziehst. Als Einspeiser\*in bekommst du einen Preis pro kWh, die du in die Nachbarschaft einspeist. Zur Finanzierung der sehr geringen laufenden Kosten des Vereins können wir zwischen diesen beiden kWh-Preisen einen kleinen Aufschlag (<=0.5 ct/kWh) einheben.
 
