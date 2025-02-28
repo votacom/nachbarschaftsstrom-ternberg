@@ -45,7 +45,7 @@ Wir wollen allen Nachbar\*innen eine informierte Entscheidung ermöglichen. [Mel
 
 ## Ich warte noch immer darauf, dass der Verein endlich gegründet wird, damit ich teilnehmen kann. Wie lange dauert das noch?
 
-Den Fortschritt der Vereinsgründung wird unter [Termine](/termine/) festgehalten.
+Der Fortschritt der Vereinsgründung wird unter [Termine](/termine/) festgehalten.
 
 Für die Vereinsgründung brauchen wir unter anderem:
 - mindestens zwei, idealerweise sechs engagierte Funktionäre ("Zugpferde")
