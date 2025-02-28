@@ -12,6 +12,23 @@ Viele generelle Fragen zum Konzept der lokalen Erneuerbare-Energie-Gemeinschaft 
 
 Ja! Eine gut funktionierende Energiegemeinschaft benötigt einen ausgewogenen Mix aus Erzeugung und Verbrauch. Wir benötigen auch dich als rein verbrauchendes Mitglied, um unsere Stromüberschüsse bei Sonnenschein in Ternberg verwerten zu können.
 
+## Ich wohne im Ort. Kann ich mitmachen?
+
+Mitmachen können alle, die an ["unseren" Trafo](/#mitgliedsgebiet) angeschlossen sind.
+
+Das sind die folgenden Adressen:
+- Albert-Bachner-Straße 1 bis 10
+- Eisenstraße 51 bis 57
+- Familiengasse (gesamt)
+- Hauptstraße 33 bis 40
+- Marienplatz (gesamt)
+- Pfarrhofstraße 8 bis 12
+- Stelzhamerstraße 2 bis 15
+- Roseggerstraße 1 bis 8 und 10
+- Spielfeldstraße 1 bis 11
+- Sportplatzstraße 1
+- Wolfgang-Forster-Straße (gesamt)
+
 ## Ich bin schon bei der regionalen Energiegemeinschaft Ennstal oder bei einer Bürgerenergiegemeinschaft. Kann ich beim Nachbarschaftsstrom Ternberg Ort mitmachen?
 
 Ja, seit April 2024 ist es möglich, mit einer Verbrauchs- oder Erzeugungsanlage an mehr als einer Bürgerenergiegemeinschaft oder Erneuerbare-Energie-Gemeinschaft teilzunehmen. Siehe dazu auch die [FAQ des Klima- und Energiefonds](https://energiegemeinschaften.gv.at/faqs/#teilnahme-energiegemeinschaften).
