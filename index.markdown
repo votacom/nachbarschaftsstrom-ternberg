@@ -8,7 +8,7 @@ title: Nachbarschaftsstrom Ternberg Ort
 Der Strom, den eine Nachbarin mit ihrer PV-Anlage erzeugt und nicht selbst verbraucht, kann ein anderer Nachbar gut brauchen.
 Die Überschüsse, die wir in der Nachbarschaft erzeugen, teilen wir miteinander. Durch unsere lokale Energiegemeinschaft nutzen wir unseren erzeugten erneurbaren Strom bestmöglich selbst, mit minimalen Übertragungsverlusten.
 
-So fördern wir den Ausbau der Erneuerbaren Energien, stärken die nachbarschaftliche Sozialstruktur und wirtschaften fürs Gemeinwohl statt für Profite.
+So fördern wir den Ausbau dezentraler Erneuerbaren Energien, stärken die nachbarschaftliche Sozialstruktur und wirtschaften fürs Gemeinwohl statt für Profite.
 
 # Mitgliedsgebiet
 
@@ -30,17 +30,35 @@ Der Verein Nachbarschaftsstrom Ternberg Ort befindet sich zurzeit im Aufbau. Wen
 
 # Wirtschaftliche Vorteile
 
-Strom, den du als Privathaushalt über unseren Verein beziehst, kostet dich brutto 7,02 ct/kWh weniger an Netzgebühren und Abgaben (Stand 2025) und (je nach gemeinsamer Preisfestsetzung) z.B. 6 ct/kWh weniger an Energiekosten als beim größten Landesversorger. So kann ein Haushalt bis zu mehrere hundert Euro im Jahr sparen!
+## Für Entnehmer\*innen
+
+Strom, den du als Privathaushalt über unseren Verein beziehst, kostet dich brutto 7,02 ct/kWh weniger an Netzgebühren und Abgaben (Stand 2025) und (je nach gemeinsamer Preisfestsetzung) z.B. 6 ct/kWh weniger an Energiekosten als beim Standardtarif des Landesversorgers. So kann ein Haushalt bis zu mehrere hundert Euro im Jahr sparen!
+
+Zusammensetzung der Stromkosten für einen Privathaushalt in Ternberg (Annahme: Regulärer Strombezug über Standardtarif des Landesversorgers mit Treuerabatt):
+
+| Preis in ct/kWh            | Regulärer Strombezug | Bezug über Nachbarschaft |
+| -------------------------- | -------------------- | ------------------------ |
+| Netznutzungsentgelt        | 6.23                 | 2.6789                   |
+| Netzverlustentgelt         | 0.554                | 0.554                    |
+| Elektrizitätsabgabe        | 1.5                  | 0                        |
+| Erneuerbaren-Förderbeitrag | 0.796                | 0                        |
+| USt Netz                   | 1.816                | 0.64658                  |
+| Energiepreis               | 15.14                | 12.0                     |
+| USt Energie                | 3.02874              | 0                        |
+| -------------------------- | -------------------- | ------------------------ |
+| **Summe**                  | **29.07 ct/kWh**     | **15.88 ct/kWh**         |
 
 ![Gestapeltes Balkendiagramm, das den Brutto-Strompreis in ct/kWh bei regulärem Bezug dem Bezug aus der Nachbarschaft gegenüberstellt](/assets/preisvergleich.png)
+
+## Für Einspeiser\*innen
 
 Auch unseren Einspeiser\*innen ermöglichen wir durch die reduzierten Gebühren, Abgaben und Steuern einen attraktiven Preis. (Im Beispiel oben 12 ct/kWh)
 
 # Links und Infos
 
-[Informationsplattform Energiegemeinschaften](https://energiegemeinschaften.gv.at/erneuerbare-energie-gemeinschaften-eeg/) des Klima- und Energiefonds
-
-[Benefit Tool – EEG und GEA](https://www.energieinstitut.at/tools/benefit/)
+[Informationsplattform Energiegemeinschaften](https://energiegemeinschaften.gv.at/erneuerbare-energie-gemeinschaften-eeg/) des Klima- und Energiefonds:
+- [Benefit- & Berechnungstool](https://energiegemeinschaften.gv.at/tools/)
+- [Häufig gestellte Fragen](https://energiegemeinschaften.gv.at/faqs/)
 
 [Netz OÖ Preisblatt Netznutzungs- und Netzverlustentgelte](https://www.netzooe.at/Netznutzung-u-Netzverlustentgelte.pdf)
 
