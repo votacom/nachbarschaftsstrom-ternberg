@@ -48,7 +48,7 @@ Wir wollen allen Nachbar\*innen eine informierte Entscheidung ermöglichen. [Mel
 Der Fortschritt der Vereinsgründung wird unter [Termine](/termine/) festgehalten.
 
 Für die Vereinsgründung brauchen wir unter anderem:
-- mindestens zwei, idealerweise sechs engagierte Funktionäre ("Zugpferde")
+- mindestens zwei, idealerweise sechs engagierte Funktionär*innen ("Zugpferde")
 - ausformulierte Statuten
 
 Nach der Gründung sollte unsere lokale Energiegemeinschaft innerhalb von 4-8 Wochen den Betrieb aufnehmen können, wenn wir uns nicht selbst im Weg stehen.
