@@ -65,7 +65,7 @@ Nein! Die Teilnahme an der Energiegemeinschaft ist ein *zusätzliches* Vertragsv
 
 Nein! In jeder Viertelstunde, in der der produzierte Strom in der Nachbarschaft nicht ausreicht, um den Bedarf zu decken, beziehen unsere Mitglieder die verbleibende Strommenge von ihren herkömmlichen, jeweiligen Stromlieferanten (mit regulären Netzkosten).
 
-Analog dazu verhält es sich für Einspiesungen: jene Energie, die du einspeist und in der jeweiligen Viertelstunde von der Nachbarschaft nicht benötigt wird, verkaufst du weiterhin an deine bisherige Abnehmerin (z.B. OeMAG).
+Analog dazu verhält es sich für Einspeisungen: Die Menge an Energie, die du einspeist und in der jeweiligen Viertelstunde von der Nachbarschaft nicht benötigt wird, verkaufst du weiterhin an deine bisherige Abnehmerin (z.B. OeMAG).
 
 ## Muss ich Änderungen an meinen elektrischen Anlagen vornehmen (lassen)?
 
