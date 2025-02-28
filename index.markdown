@@ -8,6 +8,8 @@ title: Nachbarschaftsstrom Ternberg Ort
 Der Strom, den eine Nachbarin mit ihrer PV-Anlage erzeugt und nicht selbst verbraucht, kann ein anderer Nachbar gut brauchen.
 Die Überschüsse, die wir in der Nachbarschaft erzeugen, teilen wir miteinander. Durch unsere lokale Energiegemeinschaft nutzen wir unseren erzeugten erneurbaren Strom bestmöglich selbst, mit minimalen Übertragungsverlusten.
 
+So fördern wir den Ausbau der Erneuerbaren Energien, stärken die nachbarschaftliche Sozialstruktur und wirtschaften fürs Gemeinwohl statt für Profite.
+
 # Mitgliedsgebiet
 
 "Unser" Trafo Nr. 08967 "Ternberg Ort" versorgt ca. 80 Ein- und Mehrfamilienhäuser sowie eine Handvoll Betriebe im Ortsgebiet von Ternberg im Bereich ehem. KZ-Baracke - Hauptstraße bis Abzw. Familiengasse / ehem. Arztpraxis Schleyer - Pfarrhofstraße - Roseggerstraße - Fa. SIRO. Jede/r im Mitgliedsgebiet kann mitmachen und von der Nachbarschaftlichkeit profitieren.
@@ -20,11 +22,11 @@ Als Verein gehen alle Entscheidungen von unseren Mitgliedern aus. So sind wir un
 
 # Vereinsgründung
 
-Der Verein Nachbarschaftsstrom Ternberg Ort befindet sich zurzeit im Aufbau. Wenn auch du bei der Gründung mitwirken willst, [melde dich bei uns](kontakt)!
+Der Verein Nachbarschaftsstrom Ternberg Ort befindet sich zurzeit im Aufbau. Wenn auch du bei der Gründung mitwirken willst, [melde dich bei uns](kontakt)! Auch nach der Gründung können neue Mitglieder aufgenommen werden.
 
 # Wirtschaftliche Vorteile
 
-Strom, den du als Privathaushalten über unseren Verein beziehst, kostet dich brutto 7,02 ct/kWh weniger an Netzgebühren und Abgaben (Stand 2025) und (je nach gemeinsamer Preisfestsetzung) z.B. 6 ct/kWh weniger an Energiekosten als beim größten Landesversorger. So kann ein Haushalt bis zu mehrere hundert Euro im Jahr sparen!
+Strom, den du als Privathaushalt über unseren Verein beziehst, kostet dich brutto 7,02 ct/kWh weniger an Netzgebühren und Abgaben (Stand 2025) und (je nach gemeinsamer Preisfestsetzung) z.B. 6 ct/kWh weniger an Energiekosten als beim größten Landesversorger. So kann ein Haushalt bis zu mehrere hundert Euro im Jahr sparen!
 
 ![Gestapeltes Balkendiagramm, das den Brutto-Strompreis in ct/kWh bei regulärem Bezug dem Bezug aus der Nachbarschaft gegenüberstellt](/assets/preisvergleich.png)
 
