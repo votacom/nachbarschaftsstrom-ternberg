@@ -27,7 +27,7 @@ Wenn du weniger als den empfohlenen Beitrag leisten kannst oder willst, stellen 
 
 ### Zahlung
 
-Unsere Kassierin (oder Stellvertretung) wird voraussichtlich am Dienstag, 26.7. zwischen 9 und 12 Uhr bei dir vorbeikommen. Bitte halte den Betrag, den du zahlen willst, in bar genau bereit. Wenn dir eine andere Zeit besser passt, melde dich bitte bei uns.
+Unsere Kassierin (oder Stellvertretung) wird voraussichtlich am **Dienstag, 26.7. zwischen 9 und 12 Uhr** bei dir vorbeikommen. Bitte halte den Betrag, den du zahlen willst, in bar genau bereit. Wenn dir eine andere Zeit besser passt, melde dich bitte bei uns.
 Um die Kosten für dich so gering wie möglich zu halten, führen wir kein Bankkonto.
 
 Vielen Dank, dass du mit deiner Mitgliedschaft gemeinsam mit deinen Nachbar\*innen Teil der Gemeinwohlwirtschaft bist un erneuerbare Energien und unsere nachbarschaftliche Sozialstruktur stärkst!
