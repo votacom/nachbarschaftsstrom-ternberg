@@ -10,7 +10,7 @@ permalink: /beispielrechnung/
 
 Liebe Martina,
 
-du hast im Zeitraum 1.4.-30.6.2025 insgesamt *304,62 kWh* Strom verbraucht, den deine Nachbarinnen und Nachbarn für dich ökologisch erzeugt haben.
+du hast im Zeitraum 1.4.-30.6.2025 insgesamt **304,62 kWh** Strom verbraucht, den deine Nachbarinnen und Nachbarn für dich ökologisch erzeugt haben.
 
 Graulation! Du hast damit EUR 21,37 an Netzgebühren und Abgaben gespart, weil der Strom einen so kurzen Weg hatte. Diese Ersparnis wirkt direkt auf deiner Rechnung vom Netz OÖ.
 
@@ -18,11 +18,11 @@ Graulation! Du hast damit EUR 21,37 an Netzgebühren und Abgaben gespart, weil d
 
 Du entscheidest, wie viel du deinen Nachbarinnen und Nachbarn für die 304,62 kWh zahlen möchtest.
 
-Damit wir unsere Erzeugungsanlagen kostendeckend betreiben und langfristig einen stabilen und sozial gerechten Strompreis unabhängig der Marktlage anbieten können, empfehlen wir für deinen Verbrauch einen Beitrag von *EUR 35*.
+Damit wir unsere Erzeugungsanlagen kostendeckend betreiben und langfristig einen stabilen und sozial gerechten Strompreis unabhängig der Marktlage anbieten können, empfehlen wir für deinen Verbrauch in dieser Rechnungsperiode einen Betrag von **EUR 35**.
 
 Zum Vergleich: ohne deiner Mitgliedschaft im Verein Nachbarschaftsstrom Ternberg Ort fiele deine Stromrechnung brutto um ca. EUR 86 höher aus. (\*)
 
-Bei euch ist das Geld gerade knapp? Kein Problem. Bei uns entscheidet jedes Mitglied für sich, wie viel er oder sie sich gerade leisten kann.
+Bei dir ist das Geld gerade knapp? Kein Problem. Bei uns entscheidet jedes Mitglied für sich, wie viel er oder sie sich gerade leisten kann.
 Wenn du weniger als den empfohlenen Beitrag leisten kannst oder willst, stellen wir keine unangenehmen Fragen.
 
 ### Zahlung
@@ -36,5 +36,5 @@ Vielen Dank, dass du mit deiner Mitgliedschaft gemeinsam mit deinen Nachbar\*inn
 
 PS.: Wir sind dein Verein. Alle Entscheidungen treffen wir gemeinsam, unabhängig von Unternehmen und Einflüssen von Außen. Komm mit deiner Stimme zur nächsten Mitgliederversammlung.
 
-(\*) Annahme: Standardtarif Energie AG OÖ. Wir kennen deinen tatsächlichen Stromtarif nicht, den du bezahlst, wenn bei deinen Nachbar\*innen gerade nicht die Sonne scheint.
+(\*) Annahme: Standardtarif Energie AG OÖ inkl. Treuerabatt. Wir kennen deinen tatsächlichen Stromtarif nicht, den du bezahlst, wenn bei deinen Nachbar\*innen gerade nicht die Sonne scheint.
 
