@@ -12,7 +12,7 @@ So fördern wir den Ausbau dezentraler Erneuerbaren Energien, stärken die nachb
 
 # Mitgliedsgebiet
 
-"Unser" Trafo Nr. 08967 "Ternberg Ort" versorgt ca. 80 Ein- und Mehrfamilienhäuser sowie eine Handvoll Betriebe im Ortsgebiet von Ternberg im Bereich ehem. KZ-Baracke - Hauptstraße bis Abzw. Familiengasse / ehem. Arztpraxis Schleyer - Pfarrhofstraße - Roseggerstraße - Fa. SIRO. Jede/r im Mitgliedsgebiet kann mitmachen und von der Nachbarschaftlichkeit profitieren.
+"Unser" Trafo Nr. 08967 "Ternberg Ort" versorgt ca. 80 Ein- und Mehrfamilienhäuser sowie eine Handvoll Betriebe im Ortsgebiet von Ternberg im Bereich ehem. KZ-Baracke - Hauptstraße bis Abzw. Familiengasse / ehem. Arztpraxis Schleyer - Pfarrhofstraße - Roseggerstraße - Fa. SIRO. Jede/r im Mitgliedsgebiet kann mitmachen und von der nachbarschaftlichen Stromwirtschaft profitieren.
 
 ![Kartenansicht von Ternberg mit Hervorhebung des Anschlussgebiets vom Trafo Ternberg Ort](/assets/gebiet.png)
 
@@ -24,13 +24,13 @@ Als Verein gehen alle Entscheidungen von unseren Mitgliedern aus. So sind wir un
 
 ## Deine Stromrechnung
 
-So könnte deine Stromrechnung aussehen: [Beispielrechnung](beispielrechnung)
+So könnte deine Stromrechnung aussehen: [Beispielrechnung](/beispielrechnung/)
 
 # Vereinsgründung
 
-Der Verein Nachbarschaftsstrom Ternberg Ort befindet sich zurzeit im Aufbau. Wenn auch du bei der Gründung mitwirken willst, [melde dich bei uns](kontakt)! Auch nach der Gründung können neue Mitglieder aufgenommen werden.
+Der Verein Nachbarschaftsstrom Ternberg Ort befindet sich zurzeit im Aufbau. Wenn auch du bei der Gründung mitwirken willst, [melde dich bei uns](/kontakt/)! Auch nach der Gründung können neue Mitglieder aufgenommen werden.
 
-Kommende und vergangene Termine findest du unter [Termine](termine).
+Kommende und vergangene Termine findest du unter [Termine](/termine/).
 
 # Wirtschaftliche Vorteile
 
