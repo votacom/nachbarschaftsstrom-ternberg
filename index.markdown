@@ -68,3 +68,7 @@ Auch unseren Einspeiser\*innen ermöglichen wir durch die reduzierten Gebühren,
 
 [Netz OÖ Preisblatt Steuern und Abgaben](https://www.netzooe.at/Preisblatt-Steuern-und-Abgaben.pdf)
 
+# Noch Fragen?
+
+Besuche unsere [häufig gestellten Fragen](/faq/), [ruf an oder schreibe uns eine E-Mail](/kontakt/)!
+

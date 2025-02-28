@@ -28,7 +28,27 @@ Für die Vereinsgründung brauchen wir unter anderem:
 - mindestens zwei, idealerweise sechs engagierte Funktionäre ("Zugpferde")
 - ausformulierte Statuten
 
+Nach der Gründung sollte unsere lokale Energiegemeinschaft innerhalb von 4-8 Wochen den Betrieb aufnehmen können, wenn wir uns nicht selbst im Weg stehen.
+
 Du kannst mit deinem ehrenamtlichen Engagement mithelfen, den Verein zu gründen. Tritt dafür bitte mit uns in [Kontakt](/kontakt/)!
+
+# Technische Fragen
+
+## Muss ich meine bestehenden Verträge kündigen?
+
+Nein! Die Teilnahme an der Energiegemeinschaft ist ein *zusätzliches* Vertragsverhältnis. Deine bestehenden Bezugs- und ggf. Einspeiseverträge bedienst du weiterhin für Strommengen, die nicht innerhalb der Nachbarschaft umgesetzt werden können.
+
+## Gehen meine Lichter aus, wenn keine Sonne scheint?
+
+Nein! In jeder Viertelstunde, in der der produzierte Strom in der Nachbarschaft nicht ausreicht, um den Bedarf zu decken, beziehen unsere Mitglieder die verbleibende Strommenge von ihren herkömmlichen, jeweiligen Stromlieferanten (mit regulären Netzkosten).
+
+Analog dazu verhält es sich für Einspiesungen: jene Energie, die du einspeist und in der jeweiligen Viertelstunde von der Nachbarschaft nicht benötigt wird, verkaufst du weiterhin an deine bisherige Abnehmerin (z.B. OeMAG).
+
+## Muss ich Änderungen an meinen elektrischen Anlagen vornehmen (lassen)?
+
+Nein! Die unmittelbaren Änderungen, die durch die Mitgliedschaft bei einer Energiegemeinschaft passieren, sind rein rechnerisch-bilanziell.
+
+Voraussetzung ist allerdings, dass du über einen Smart Meter (Stromzähler ohne Drehscheibe) verfügst, um die Abrechnung in Viertelstundenintervallen zu ermöglichen. [Laut Netzbetreiber](https://www.netzooe.at/Themen/Information/smart-meter/Rollout) waren in Ternberg bereits 2020 mehr als 95% aller Zählpunkte auf Smart Meter umgestellt.
 
 # Wirtschaftliche Fragen
 
@@ -54,5 +74,5 @@ Wir bekommen als Energiegemeinschaft über eine Schnittstelle die Einspeise- und
 
 # Änderungshinweis
 
-Alle Entscheidungen gehen von uns Vereinsmitgliedern aus. Bis zum Betrieb der Energiegemeinschaft können die oben genannten Aspekte auch noch anders entschieden werden.
+Alle Entscheidungen gehen von uns Vereinsmitgliedern aus. Bis zum Betrieb der Energiegemeinschaft können die oben genannten wirtschaftlichen und organisatorischen Aspekte auch noch anders entschieden werden.
 
