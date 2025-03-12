@@ -6,6 +6,11 @@ permalink: /termine/
 
 # Kommende Termine
 
+## 14.03.2025 Jahreshauptversammlung EEG Ennstal (GH Geiger, Laussa)
+
+Die regionale [Erneuerbare Energiegemeinschaft Ennstal](https://www.eeg-ennstal.at/) jahreshauptversammelt sich im Gasthof Geiger.
+Nachbarschaftsstrom-Initiator Manuel Bichler wird dabei sien.
+
 ## TBD: Treffen für Interessierte
 
 Bis Frühlung 2025 wollen wir ein Informationstreffen abhalten, bei dem sich an der Mitgliedschaft Interessierte unseres Mitgliedsgebiets austauschen können.
@@ -15,11 +20,11 @@ Mögliche Themen sind:
 - Wie wollen wir unsere Preise gestalten?
 - Wie wollen wir unsere Abläufe in der Energiegemeinschaft orgainiseren? (Mitgliederverwaltung, Rechnungslegung, Kasse)
 
+# Vergangene Termine
+
 ## 12.03.2025 Informationsabend Kleinwindkraft (GH Mandl)
 
-Die Grünen Ternberg veranstalten einen Informationsabend zum Thema Kleinwindkraft, bei dem u.a. Nachbarschaftsstrom-Initiator Manuel Bichler teilnehmen wird.
+Die Grünen Ternberg haben einen Informationsabend zum Thema Kleinwindkraft veranstaltet, bei dem u.a. Nachbarschaftsstrom-Initiator Manuel Bichler teilgenommen hat.
 
 [Artikel auf meinbezirk.at](https://www.meinbezirk.at/steyr-steyr-land/c-regionauten-community/kleinwindkraft-in-ternberg_a7161516)
-
-# Vergangene Termine
 
