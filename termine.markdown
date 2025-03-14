@@ -6,11 +6,6 @@ permalink: /termine/
 
 # Kommende Termine
 
-## 14.03.2025 Jahreshauptversammlung EEG Ennstal (Laussa)
-
-Die regionale [Erneuerbare Energiegemeinschaft Ennstal](https://www.eeg-ennstal.at/) trifft sich zur Jahreshauptversammlung im Gasthaus Zum Geiger.
-Nachbarschaftsstrom-Initiator Manuel Bichler wird dabei sien.
-
 ## TBD: Treffen für Interessierte
 
 Bis Frühlung 2025 wollen wir ein Informationstreffen abhalten, bei dem sich an der Mitgliedschaft Interessierte unseres Mitgliedsgebiets austauschen können.
@@ -21,6 +16,11 @@ Mögliche Themen sind:
 - Wie wollen wir unsere Abläufe in der Energiegemeinschaft orgainiseren? (Mitgliederverwaltung, Rechnungslegung, Kasse)
 
 # Vergangene Termine
+
+## 14.03.2025 Jahreshauptversammlung EEG Ennstal (Laussa)
+
+Die regionale [Erneuerbare Energiegemeinschaft Ennstal](https://www.eeg-ennstal.at/) hat sich zur Jahreshauptversammlung im Gasthaus Zum Geiger getroffen.
+Nachbarschaftsstrom-Initiator Manuel Bichler war dabei.
 
 ## 12.03.2025 Informationsabend Kleinwindkraft (GH Mandl)
 
